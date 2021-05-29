@@ -1,0 +1,27 @@
+button{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top:20px;
+    right:30px;
+    cursor: pointer;
+    color:black;
+    margin:30px;
+    
+}
+body{
+    background-color: lightsteelblue;
+}
+h1{
+   text-align: center;
+}
+h2{
+   text-align: center;
+   background-color: greenyellow;
+}
+h3{
+    text-align: center;
+}
+.div{
+    text-align: center;
+}
